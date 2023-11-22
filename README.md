@@ -13,3 +13,6 @@ The website was developed using the following technologies:
 - Framework: React.js
 - Version Control: Git
 - Package Manager: npm
+
+## MIT licence explanation
+I opted for the MIT license for its permissive nature, allowing users to freely use, modify, and distribute the software without many restrictions. This is because I myself referred to a resource online for the project and hence believe in open sourcing and encouraging collaboration and widespread adoption within the developer community. The simplicity and lack of complex requirements in the MIT license also make it easy for others to understand and use the project in various contexts.
