@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personal_portfolio/static/css/main.c3eaf3f4.css",
+    "main.js": "/personal_portfolio/static/js/main.5503e593.js",
+    "static/media/me.png": "/personal_portfolio/static/media/me.ed82d3d09351c7eb938b.png",
+    "static/media/Menumap.png": "/personal_portfolio/static/media/Menumap.eb27f1e2ef45e48aad2b.png",
+    "static/media/Friendsbook.png": "/personal_portfolio/static/media/Friendsbook.5a30e34a53360342ff6f.png",
+    "static/media/Aryaman_Bahuguna_Resume1.pdf": "/personal_portfolio/static/media/Aryaman_Bahuguna_Resume1.acd417cff3ab222dff0e.pdf",
+    "index.html": "/personal_portfolio/index.html",
+    "main.c3eaf3f4.css.map": "/personal_portfolio/static/css/main.c3eaf3f4.css.map",
+    "main.5503e593.js.map": "/personal_portfolio/static/js/main.5503e593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3eaf3f4.css",
+    "static/js/main.5503e593.js"
+  ]
+}
